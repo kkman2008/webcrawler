@@ -9,3 +9,7 @@
  3：利用pyquery解析页面，分析获取商品信息； 
 
  4：将获取到的商品信息存储到mongodb中，供后续分析使用。
+
+更具体参考：
+
+ 请参看本人博客对此实例的具体分析： https://blog.csdn.net/kingmax54212008/article/details/82054308
